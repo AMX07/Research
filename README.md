@@ -1,8 +1,7 @@
 # Research
 
-A showcase of my deep learning projects — from-scratch reimplementations, LLM experiments, and applied ML systems.
+A showcase of my deep learning projects, from-scratch reimplementations, LLM experiments, and applied ML systems.
 
-This repo itself contains my walkthrough of Andrej Karpathy's *Zero to Hero* lectures, aimed at building a crystal-clear understanding of the neural networks behind large language models.
 
 ## Index of Deep Learning Projects
 
